@@ -266,7 +266,7 @@ WHERE
 ```
 
   
-The following is like the query above but does not omit books with NULL
+The following is like the query above but includes books with NULL
 subjects. This joined data was saved in a new table
 “all_books_missing_subjects,” to analyze the title words:
 

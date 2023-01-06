@@ -464,7 +464,7 @@ in 2020. The buzzword of “Delicious” increased to surpass “Easy” in 2014
 
 Economic, social, and personal changes all affect the world of food
 consumption. Analyzing the changing trends in cookbooks can highlight
-how all these facets of life change and evolve home cooking. Beyond
+how all these facets of life change home cooking. Beyond
 personal interest and curiosity, the data could be useful for:
 
 **1. Identifying popular or rising trends**

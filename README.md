@@ -266,7 +266,7 @@ WHERE
 ```
 
   
-This similar to the query above but does not omit books with NULL
+The following is like the query above but does not omit books with NULL
 subjects. This joined data was saved in a new table
 “all_books_missing_subjects,” to analyze the title words:
 
@@ -437,9 +437,9 @@ nineties and reached their peak in 2013:**
 
 ![](https://github.com/Maria-Catherine/Cookbook-Trends/blob/main/Visualizations/_Low_%20Diet%20Cookbooks%20by%20Year%20Published.png?raw=true)
 Breaking down the “Low” Diets, “Low-Fat” was the most popular, peaking
-in the late 90s.
+in the late nineties.
 
-*These numbers are in the 10s, as the specific subject data for diet
+*These numbers are in the tens, as the specific subject data for diet
 cookbooks was relatively small. A larger set would be more helpful to
 give a more substantial and clear-cut conclusion*
 

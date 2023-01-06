@@ -341,14 +341,14 @@ to explore the possibility of it skewing the data.
 For the data with listed subjects, the spike is more defined, but occurs
 in the 1st Edition data as well:
 
-![](Visualization_Filtered.png)  
+![](https://github.com/Maria-Catherine/Cookbook-Trends/blob/main/Visualizations/Visualization_Filtered.png?raw=true)  
   
 
 In the following graph with the unfiltered (aka title word) data, the
 difference is even smaller, both lines following the same increases and
 decreases:
 
-![](Visualization_UnFiltered.png)  
+![](https://github.com/Maria-Catherine/Cookbook-Trends/blob/main/Visualizations/Visualization_UnFiltered.png?raw=true)  
   
 
 The biggest difference is between the unfiltered data and the data with
@@ -357,7 +357,7 @@ and 2013, vary in shape. This might be due to overall cookbook
 publishing not catching up as immediately as the subject data set
 suggests:
 
-![](Visualization_Overview.png) For example, there is an increase after
+![](https://github.com/Maria-Catherine/Cookbook-Trends/blob/main/Visualizations/Visualization_Overview.png?raw=true) For example, there is an increase after
 2007 (solid line), but the fall after 2013 (dashed line) is less
 consistent compared to the listed subjects. Despite these differences,
 the overall trends of rising and falling do match up, the subject data
@@ -375,7 +375,7 @@ I am only now teaching myself Power BI.*
 The number of books and topics increased from 1900 to 2022. There are
 multiple potential causes for these changes when looking at the data:
 
-![](./Tableau/Final/Cookbooks%20Published%20with%20Listed%20Subjects%20by%20Year.png)
+![](https://github.com/Maria-Catherine/Cookbook-Trends/blob/main/Visualizations/Cookbooks%20Published%20with%20Listed%20Subjects%20by%20Year.png?raw=true)
 **There is an increase in the number of cookbooks published after
 1970.** Potentially attributable to a lack of digitized book data.
 Another possibility is that more individuals maintained personal and
@@ -414,7 +414,7 @@ The top book subjects are **Cooking**, **Italian Cooking**,
 **Literary Collections**, **American Cooking**, and **Vegetarian &
 Vegan**:
 
-![](./Tableau/Final/Top%20Cookbook%20Subjects.png)
+![](https://github.com/Maria-Catherine/Cookbook-Trends/blob/main/Visualizations/Top%20Cookbook%20Subjects.png?raw=true)
 
 ### 3. How did these top topics change over the years and what are the possible reasons?
 
@@ -425,7 +425,7 @@ and **Nutrition & Health**. The line graphs show the difference in the
 actual count of books and the percentage of all books published with
 listed subjects:
 
-![](./Tableau/Final/Top%20Cookbook%20Subjects%20by%20Year%20Published.png)  
+![](https://github.com/Maria-Catherine/Cookbook-Trends/blob/main/Visualizations/Top%20Cookbook%20Subjects%20by%20Year%20Published.png?raw=true)  
 **Italian cookbooks rose significantly in the nineties and early 2000s,
 both in quantity and percentage of books published.** Italian food in
 the late 1800s was viewed as “foreign” and did not receive positive hype
@@ -438,9 +438,9 @@ reducing-focused cookbooks.
 **“Low” (low fat, low carb, etc.) and diet cookbooks rose in the
 nineties and reached their peak in 2013:**
 
-![](./Tableau/Final/Diet%20or%20Reducing%20Cookbooks%20by%20Year%20Published.png)
+![](https://github.com/Maria-Catherine/Cookbook-Trends/blob/main/Visualizations/Diet%20or%20Reducing%20Cookbooks%20by%20Year%20Published.png?raw=true)
 
-![](./Tableau/Final/_Low_%20Diet%20Cookbooks%20by%20Year%20Published.png)
+![](https://github.com/Maria-Catherine/Cookbook-Trends/blob/main/Visualizations/_Low_%20Diet%20Cookbooks%20by%20Year%20Published.png?raw=true)
 Breaking down the “Low” Diets, “Low-Fat” was the most popular, peaking
 in the late 90s.
 
@@ -455,7 +455,7 @@ like Cookbook, Cooking, and Recipes that skew the data: **Easy**,
 **Delicious**, **Healthy**, **Food**, **Diet**, **Guide**, **Complete**,
 and **Quick** are the top book terms:
 
-![](./Tableau/Final/Top%20Cookbook%20Title%20Words%20Omitting%20General%20Terms.png)  
+![](https://github.com/Maria-Catherine/Cookbook-Trends/blob/main/Visualizations/Top%20Cookbook%20Title%20Words%20Omitting%20General%20Terms.png?raw=true)  
   
 Looking at the top title words, all of them rise and fall at similar
 times, when looking at both the count and the percentage of all
@@ -463,7 +463,7 @@ published books. “Easy” is consistently at the top, rising to above 25%
 in 2020. The buzzword of “Delicious” increased to surpass “Easy” in 2014
 (dotted line) around the 10% point:
 
-![](./Tableau/Final/Top%20Cookbook%20Title%20Words%20by%20Year%20Published.png)
+![](https://github.com/Maria-Catherine/Cookbook-Trends/blob/main/Visualizations/Top%20Cookbook%20Title%20Words%20by%20Year%20Published.png?raw=true)
 
 ## Conclusion & Takeaways
 

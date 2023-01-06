@@ -142,7 +142,7 @@ print(df)
 
 I used Excel to clean and format the data for analysis:
 
-![](Cleaning_Log.png)
+![](https://github.com/Maria-Catherine/Cookbook-Trends/blob/main/Visualizations/Cleaning_Log.png?raw=true)
 
 ## Data Cleaning with SQL
 

@@ -1,8 +1,3 @@
-Cookbook Trends from 1900 to 2022
-================
-Maria Tucker
-2023-1-06
-
 ## Introduction & Background
 
 Food preparation holds economic, social, and personal significance.

@@ -477,7 +477,7 @@ personal interest and curiosity, the data could be useful for:
 
 #### **Thank you for reading!**
 
-##### To look closer at the visualizations: [Tableau Visualizations](https://public.tableau.com/app/profile/maria.catherine4989/viz/CookbookTrends/TitleWordOverview#1)
+##### To look closer at the visualizations: [Tableau Visualizations](https://public.tableau.com/app/profile/maria.catherine4989/viz/CookbookTrends/CookbooksPublishedwithListedSubjectsbyYear#1)
 
 ## References
 
